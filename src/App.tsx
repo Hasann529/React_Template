@@ -1,5 +1,4 @@
 import { Route, Routes } from 'react-router-dom'
-import './App.css'
 import ProtectedRoute from './ProtectedRoute'
 import MyForm from './components/MyForm'
 import Rahul from './components/Rahul'
